@@ -1,0 +1,30 @@
+{
+  "title": "it is working ",
+  "message": "time capsule is working ",
+  "delivery_date": "2025-10-24",
+  "recipient_type": "other",
+  "recipient_email": "aditi.badkas23@vit.edu",
+  "category": "goals",
+  "tags": [],
+  "media_files": [
+    {
+      "filename": "88bfd90c-aa82-4de2-998a-26d14bc0a73f_Screenshot 2025-10-24 191635.png",
+      "original_name": "Screenshot 2025-10-24 191635.png",
+      "type": "image/png"
+    },
+    {
+      "filename": "f55d94c5-5b1d-4a7a-9fd9-706e1af02caa_Screenshot 2025-10-24 195018.png",
+      "original_name": "Screenshot 2025-10-24 195018.png",
+      "type": "image/png"
+    },
+    {
+      "filename": "73fdd5e1-0047-4dbe-995a-1894910768fb_Screenshot 2025-10-24 195028.png",
+      "original_name": "Screenshot 2025-10-24 195028.png",
+      "type": "image/png"
+    }
+  ],
+  "user_id": "6a15d084-e9a0-4ffa-b1d4-c7fd1cdf9971",
+  "id": "e447f811-ef14-44dd-82cc-197ae3a20fd3",
+  "created_at": "2025-10-24T20:16:45.054574",
+  "status": "ready"
+}

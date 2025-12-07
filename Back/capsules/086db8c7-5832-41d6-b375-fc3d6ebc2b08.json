@@ -1,0 +1,20 @@
+{
+  "title": "Choti Anusaka",
+  "message": "this ",
+  "delivery_date": "2025-10-29",
+  "recipient_type": "other",
+  "recipient_email": "anushka.bhalerao23@vit.edu",
+  "category": "other",
+  "tags": [],
+  "media_files": [
+    {
+      "filename": "759697d4-310d-49e6-8272-32877f64e76e_Screenshot 2024-04-03 143901.png",
+      "original_name": "Screenshot 2024-04-03 143901.png",
+      "type": "image/png"
+    }
+  ],
+  "user_id": "6a15d084-e9a0-4ffa-b1d4-c7fd1cdf9971",
+  "id": "086db8c7-5832-41d6-b375-fc3d6ebc2b08",
+  "created_at": "2025-10-29T11:56:10.359101",
+  "status": "ready"
+}

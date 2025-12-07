@@ -1,0 +1,20 @@
+{
+  "title": "open it",
+  "message": "hiii ",
+  "delivery_date": "2025-12-01",
+  "recipient_type": "other",
+  "recipient_email": "kingayush1508@gmail.com",
+  "category": "birthday",
+  "tags": [],
+  "media_files": [
+    {
+      "filename": "ef71faf3-0792-4dc6-a6e7-52a132d623d5_Screenshot 2023-09-26 210617.png",
+      "original_name": "Screenshot 2023-09-26 210617.png",
+      "type": "image/png"
+    }
+  ],
+  "user_id": "7ac1f449-fea0-42e0-9f92-ad1adbf8f81f",
+  "id": "5ab49330-e4cd-4145-997f-75abcaa49875",
+  "created_at": "2025-12-01T01:03:00.412094",
+  "status": "ready"
+}

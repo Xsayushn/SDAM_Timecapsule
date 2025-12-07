@@ -1,0 +1,20 @@
+{
+  "title": "hihihihi",
+  "message": "this is test",
+  "delivery_date": "2025-12-07",
+  "recipient_type": "self",
+  "recipient_email": "",
+  "category": "birthday",
+  "tags": [],
+  "media_files": [
+    {
+      "filename": "dbf56640-efe2-45a5-be3c-327796e0ef86_Screenshot 2025-01-26 002511.png",
+      "original_name": "Screenshot 2025-01-26 002511.png",
+      "type": "image/png"
+    }
+  ],
+  "user_id": "6a15d084-e9a0-4ffa-b1d4-c7fd1cdf9971",
+  "id": "f93fff93-a900-41a8-b52c-6b9fbcdaa9b9",
+  "created_at": "2025-12-07T20:52:02.819944",
+  "status": "ready"
+}

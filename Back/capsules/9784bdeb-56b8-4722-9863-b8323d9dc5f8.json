@@ -1,0 +1,30 @@
+{
+  "title": "Its working",
+  "message": "its working",
+  "delivery_date": "2025-10-24",
+  "recipient_type": "other",
+  "recipient_email": "aditi.badkas23@vit.edu",
+  "category": "graduation",
+  "tags": [],
+  "media_files": [
+    {
+      "filename": "f574acb0-7a75-4403-b068-f382c8b5160f_Screenshot 2025-10-24 191635.png",
+      "original_name": "Screenshot 2025-10-24 191635.png",
+      "type": "image/png"
+    },
+    {
+      "filename": "78ab73e9-4837-4342-9a45-19a3650c00fb_Screenshot 2025-10-24 195018.png",
+      "original_name": "Screenshot 2025-10-24 195018.png",
+      "type": "image/png"
+    },
+    {
+      "filename": "9a7f87bd-2838-4e65-b757-4ff9b39a6927_Screenshot 2025-10-24 195028.png",
+      "original_name": "Screenshot 2025-10-24 195028.png",
+      "type": "image/png"
+    }
+  ],
+  "user_id": "6a15d084-e9a0-4ffa-b1d4-c7fd1cdf9971",
+  "id": "9784bdeb-56b8-4722-9863-b8323d9dc5f8",
+  "created_at": "2025-10-24T20:05:06.584313",
+  "status": "ready"
+}

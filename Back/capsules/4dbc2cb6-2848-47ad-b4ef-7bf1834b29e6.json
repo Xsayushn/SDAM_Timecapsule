@@ -1,0 +1,20 @@
+{
+  "title": "meow meow meow\ud83d\ude3a\ud83d\ude3a\ud83d\ude3a\ud83d\ude3a",
+  "message": "hogya hogya hogya",
+  "delivery_date": "2025-10-28",
+  "recipient_type": "self",
+  "recipient_email": "",
+  "category": "anniversary",
+  "tags": [],
+  "media_files": [
+    {
+      "filename": "8ad5642b-3280-40b8-bac9-3214c15c1468_Screenshot 2024-11-06 143409.png",
+      "original_name": "Screenshot 2024-11-06 143409.png",
+      "type": "image/png"
+    }
+  ],
+  "user_id": "074369d9-3e1f-402b-a652-d145608c304b",
+  "id": "4dbc2cb6-2848-47ad-b4ef-7bf1834b29e6",
+  "created_at": "2025-10-28T22:56:25.371041",
+  "status": "ready"
+}

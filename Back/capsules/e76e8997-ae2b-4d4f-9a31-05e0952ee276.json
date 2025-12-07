@@ -1,0 +1,20 @@
+{
+  "title": "Happy birthday ",
+  "message": "its your birthday \ntime capsule testing \ud83d\ude01\ud83d\ude01\ud83d\ude01\ud83d\ude01",
+  "delivery_date": "2025-10-25",
+  "recipient_type": "other",
+  "recipient_email": "mohit.badgujar23@vit.edu",
+  "category": "birthday",
+  "tags": [],
+  "media_files": [
+    {
+      "filename": "2e84f5de-e34b-449f-8bef-d05a6b822a21_Screenshot 2025-10-24 191635.png",
+      "original_name": "Screenshot 2025-10-24 191635.png",
+      "type": "image/png"
+    }
+  ],
+  "user_id": "6a15d084-e9a0-4ffa-b1d4-c7fd1cdf9971",
+  "id": "e76e8997-ae2b-4d4f-9a31-05e0952ee276",
+  "created_at": "2025-10-24T19:18:37.584176",
+  "status": "ready"
+}

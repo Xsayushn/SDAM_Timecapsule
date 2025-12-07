@@ -1,0 +1,20 @@
+{
+  "title": "shfjkh",
+  "message": "hi ",
+  "delivery_date": "2025-10-29",
+  "recipient_type": "self",
+  "recipient_email": "",
+  "category": "personal",
+  "tags": [],
+  "media_files": [
+    {
+      "filename": "c931d4bc-7eac-4547-9f76-3c7595438db5_Screenshot 2025-10-15 155341.png",
+      "original_name": "Screenshot 2025-10-15 155341.png",
+      "type": "image/png"
+    }
+  ],
+  "user_id": "6a15d084-e9a0-4ffa-b1d4-c7fd1cdf9971",
+  "id": "428747ff-bff9-47d7-ae6f-2df8ca3ee4b6",
+  "created_at": "2025-10-29T12:36:15.839830",
+  "status": "ready"
+}

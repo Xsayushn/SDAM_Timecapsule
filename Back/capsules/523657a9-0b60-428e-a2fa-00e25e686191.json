@@ -1,0 +1,20 @@
+{
+  "title": "heloo",
+  "message": "this is capsule",
+  "delivery_date": "2025-11-12",
+  "recipient_type": "other",
+  "recipient_email": "aditi.badkas23@vit.edu",
+  "category": "personal",
+  "tags": [],
+  "media_files": [
+    {
+      "filename": "56f8fced-fd8e-4d49-91c4-ad36d0a6f246_Screenshot 2023-10-09 151721.png",
+      "original_name": "Screenshot 2023-10-09 151721.png",
+      "type": "image/png"
+    }
+  ],
+  "user_id": "6a15d084-e9a0-4ffa-b1d4-c7fd1cdf9971",
+  "id": "523657a9-0b60-428e-a2fa-00e25e686191",
+  "created_at": "2025-11-12T13:21:28.015433",
+  "status": "ready"
+}
