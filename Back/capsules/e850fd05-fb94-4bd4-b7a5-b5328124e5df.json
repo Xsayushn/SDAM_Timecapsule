@@ -1,0 +1,19 @@
+{
+  "title": "hfhfod",
+  "message": "ddhfdjf",
+  "delivery_date": "2025-12-17",
+  "recipient_type": "self",
+  "category": "birthday",
+  "tags": [],
+  "media_files": [
+    {
+      "filename": "6c6ee879-4f3b-4dee-b602-938bf22089e9_Screenshot 2023-09-26 210617.png",
+      "original_name": "Screenshot 2023-09-26 210617.png",
+      "type": "image/png"
+    }
+  ],
+  "user_id": "6a15d084-e9a0-4ffa-b1d4-c7fd1cdf9971",
+  "id": "e850fd05-fb94-4bd4-b7a5-b5328124e5df",
+  "created_at": "2025-12-08T14:48:10.537505",
+  "status": "locked"
+}

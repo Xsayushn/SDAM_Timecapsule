@@ -1317,7 +1317,7 @@ EMAIL_CONFIG = {
     'smtp_server': 'smtp.gmail.com',
     'smtp_port': 587,
     'email_address': 'kingayush1508@gmail.com',
-    'email_password': '@AYUSH4930a'
+    'email_password': 'vmxd lntu ynkv aoex'
 }
 
 class UserStorage:

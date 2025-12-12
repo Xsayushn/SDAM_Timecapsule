@@ -1,0 +1,20 @@
+{
+  "title": "okok",
+  "message": "this is working",
+  "delivery_date": "2025-12-07",
+  "recipient_type": "other",
+  "category": "personal",
+  "tags": [],
+  "media_files": [
+    {
+      "filename": "e1db8b73-bf63-495f-b00d-76bd611e0264_Screenshot 2023-12-23 142151.png",
+      "original_name": "Screenshot 2023-12-23 142151.png",
+      "type": "image/png"
+    }
+  ],
+  "recipient_email": "Kingayush1508@gmail.com",
+  "user_id": "6a15d084-e9a0-4ffa-b1d4-c7fd1cdf9971",
+  "id": "89eb8a47-261b-41fe-a860-86fe34be2f9c",
+  "created_at": "2025-12-07T23:53:27.257047",
+  "status": "ready"
+}
